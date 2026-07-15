@@ -1,33 +1,106 @@
-<h1 align="center">Hi 👋, I'm Hamed Fakoori</h1>
-<h3 align="center">I am a young backend programmer, passionate about security and in love with learning.</h3>
+<h1 data-importer="text" align="center">Hi 👋, I'm Hamed Fakoori</h1>
 
-- 🔭 I’m currently working on [movazee.com](https://movazee.ir)
+###
 
-- 🌱 I’m currently learning **python with django framework**
+<h3 data-importer="text" align="center">I am a young backend programmer, passionate about security and in love with learning.</h3>
 
-- 💬 Ask me about **js , python , django , rest framework**
+###
 
-- 📫 How to reach me **hamedfakoori01@gmail.com**
+<p data-importer="text" align="left">🔭 I’m currently working on https://github.com/t4b4rz1n<br><br>🌱 I’m currently learning python with django framework<br><br>💬 Ask me about js , python , django , rest framework<br><br>📫 How to reach me hamedfakoori01@gmail.com</p>
 
+###
 
-<h3 align="left">Activities On Github</h3>
+<h3 data-importer="text" align="left">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/hamed__fakoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamed__fakoori" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/hamed-fakoori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamed-fakoori" height="30" width="40"/></a>
-  <a href="https://stackoverflow.com/users/22426891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22426891" height="30" width="40"/></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-</p>
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/hamed-fakoori/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Hamed_Fakoori" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/hamed__fakoori" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22426891" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Languages and Tools:</h3>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamed-244/Hamed-244/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamed-244/Hamed-244/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamed-244/Hamed-244/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
