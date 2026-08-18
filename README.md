@@ -104,3 +104,10 @@
 </picture>
 
 ###
+
+<p align="center">
+  Curious to know more about me and what I work on?
+  <br>
+  You can find more about my projects, experience, and journey on my portfolio:
+  <a href="https://hamedfakoori.ir/" target="_blank">hamedfakoori.ir</a>
+</p>
